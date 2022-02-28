@@ -1,10 +1,10 @@
 # carbohydrate-microarray-processing
 
-An Excel macro programmed in VBA for processing carbohydrate microarray data. version v20190812, written by a chemist who is also an amateur programmer. 
+An Excel macro programmed in VBA for processing carbohydrate microarray data, written by a chemist who is also an amateur programmer. Most recent version is v20210615. 
 
 This program is used for processing the carbohydrate microarray data. It takes the configuration file of the array from the Scienion array spotter to generate the layout of the array. It then processes the output file from a fluorescence scanner to perform statistical analysis. GAL file-based scanning data could also be incorporated. 
 
-On Zendo since 7/29/2021. 
+On Zendo since 7/29/2021. https://zenodo.org/record/5146251
 
 Github: https://github.com/enthalpyliu/carbohydrate-microarray-processing
 
