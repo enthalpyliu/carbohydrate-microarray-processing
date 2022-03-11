@@ -1,0 +1,47 @@
+List of publications that used the software for data processing:
+
+
+1.	Synthetic O-Acetyl-N-glycolylneuraminic Acid Oligosaccharides Reveal Host-Associated Binding Patterns of Coronaviral Glycoproteins, Li, Zeshi; Liu, Lin; Unione, Luca; Lang, Yifei ; De Groot, Raoul; Boons, Geert-Jan. ACS Infectious Diseases, in press
+
+2.	Cell Surface Glycan Engineering Reveals that Matriglycan Alone can Recapitulate Dystroglycan Binding and Function M. Osman Sheikh, Chantelle J. Capicciotti, Lin Liu, Jeremy Praissman, Daniel G. Mead, Melinda A. Brindley, Tobias Willer, Kevin P. Campbell, Kelley W. Moremen, Lance Wells, Geert-Jan Boons Nature Comm, in revision 
+
+3.	Spruit, C.M., X. Zhu, I. Tomris, M. Rios Carrasco, A. X. Han, F. Broszeit, R. van der Woude, K.M. Bouwman, M.M.T. Luu, K. Matsuno, Y. Sakoda, C.A. Russell, I. A. Wilson, G.J. Boons, and R.P. de Vries. 2021, N-glycolyneuraminic acid binding of avian and equine H7 influenza A viruses. J. Vir. Accepted for publication.
+
+4.	Li, Z. L. Unione, L. Liu, Y. Lang, R.P. de Vries, R.J. de Groot, and G.J. Boons. 2021. Synthetic O-acetylated sialosides and their acetamido-deoxy analogs as probes for coronaviral hemagglutinin-esterase recognition. J. Am. Chem. Soc. In press (DOI: 10. 1021/jacs. 1c10329).
+
+5.	Broszeit, F., R.J. van Beek, L. Unione, T.M. Bestebroer, D. Chapla, J.-Y. Yang, K. W. Moremen, S. Herfst, R.A.M. Voucher, R.P. de Vries, and G.J. Boons. 2021. Glycan remodeled erythrocytes facilitate antigenic characterization of recent A/H3N2 influenza viruses. Nat. Commun. 12(1): 5449.
+
+6.	Huang, J., P. Chopra, L. Liu, T. Nagy, J. Murray, R.A. Tripp, G.J. Boons, and J.J. Mousa. 2021. Structure, immunogenicity, and conformation-dependent receptor binding of the post-fusion human metapneumovirus F protein. J. Virol. 95(18): e00593-21.
+
+7.	Liu, L., P. Chopra, X. Li, K.M. Bouwman, S.M Tompkins, M.A. Wolfert, R.P. de Vries, and G.J. Boons. 2021. Heparan sulfate proteoglycans as an initial attachment factor for SARS-CoV-2. ACS Cent. Sci. 7(6): 1009-1018.
+
+8.	Li, Z. Y. Lang, L. Liu, M.I. Bunyatov, A. Isaza Sarmiento, R.J. de Groot, and G.J. Boons. 2021. Synthetic O-acetylated sialosides facilitate functional receptor identification for human respiratory viruses. Nat. Chem. 13(5): 496-503.
+
+9.	Spruit, C.M., N. Nemanichvili, M. Okamatsu, H. Takematsu, H., G.J. Boons, and R.P. de Vries. 2021. N-glycolylneuraminic acid in animal models for human influenza A virus. Viruses 13(5): 815.
+
+10.	Chopra, P., A. Joshi, J. Wu, W. Lu, T. Yadavalli, M.A. Wolfert, D. Shukla, J. Zaia, and G.J. Boons. 2021. 3-O-Sulfation of heparan sulfate modulates protein binding and lyase degradation. Proc. Natl. Acad. Sci. U. S. A. 118(3): e2012935118.
+
+11.	Overeem, N.J., P.H.E. Hamming, O.C. Grant, D. Di Iorio, M. Tieke, M.C. Bertolino, Z. Li, G. Vos, R.P. de Vries, R.J. Woods,* N.B. Tito, G.J.P.H. Boons,* E. van der Vries,* and J. Huskens*. 2020. Hierarchical multivalent effects control influenza host specificity. ACS Cent. Sci. 6(12): 2311−2318.
+
+12.	Srivastava, A.D., L. Unione, M.A. Wolfert, P. Valverde, A. Ardá, J. Jiménez-Barbero, and G.J. Boons. 2020. Mono- and di-fucosylated glycans of the parasitic worm S. mansoni are recognized differently by the innate immune receptor DC-SIGN. Chem. Eur. J. 26(67): 15605-15612.
+
+13.	Li, T., M.A. Wolfert, N. Wei, R. Huizinga, B.C. Jacobs, and G.J. Boons. 2020. Chemoenzymatic synthesis of Campylobacter jejuni lipo-oligosaccharide core domains to examine Guillain-Barré syndrome serum antibody specificities. J. Am. Chem. Soc. 142(46): 19611-19621.
+
+14.	Eggink D., M. Spronken, R. van der Woude, J. Buzink, F. Broszeit, R. McBride R, H.A. Pawestri, V. Setiawaty, J.C. Paulson, G.J. Boons, R.A.M. Fouchier, C.A. Russell, M.D. de Jong, and R.P. de Vries. 2020. Phenotypic effects of substitutions within the receptor binding site of highly pathogenic avian influenza H5N1 virus observed during human infection. J. Virol. 94(13): e00195-20.
+
+15.	Liu, H., A. Joshi, P. Chopra, L. Liu, G.J. Boons, and J.S. Sharp. 2019. Salt-free fractionation of complex isomeric mixtures of glycosaminoglycan oligosaccharides compatible with ESI-MS and microarray analysis. Sc. Rep. 9(1): 16566.
+
+16.	t’ Hart, I.M.E.,T. Li, M.A. Wolfert, S. Wang, K.W. Moremen, and G.J. Boons. 2019. Chemoenzymatic synthesis of the oligosaccharide moiety of the tumor-associated antigen disialosyl globopentaosylceramide. Org. Biomol. Chem. 17(31): 7304-7308.
+
+17.	Gagarinov, I.A., T. Li, N. Wei, J. Sastre Toraño, R.P. de Vries, M.A. Wolfert, and G.J. Boons. 2019. Protecting group-controlled enzymatic glycosylation of oligo-N-acetyllactosamine derivatives. Angew. Chem. Int. Ed. 58(31): 10547-10552.
+
+18.	Broszeit, F., N. Tzarum, X. Zhu, N. Nemanachvilli, D. Eggink, T. Leenders, Z. Li, L. Liu, M.A. Wolfert, A. Papanikolaou, C. Martinez-Romero, I.A. Gagarinov, W. Yu, A. Garcia-Sastre, T. Wennekes, M. Okamatsu, M.H. Verheije, I.A. Wilson, G.J. Boons, and R.P. de Vries. 2019. N-glycolylneuraminic acid as a receptor for influenza A viruses. Cell Rep. 27(11): 3284-3294.e6.
+
+19.	Liu, L., A.R. Prudden, C.J. Capicciotti, G.P. Bosman, J.-Y. Yang, D.G. Chapla, K.W. Moremen, and G.J. Boons. 2019. Streamlining the chemoenzymatic synthesis of complex N-glycans by a stop and go strategy. Nat. Chem. 11(2): 161-169.
+
+20.	Chapman, R.N., L. Liu, and G.J. Boons. 2018. 4,6-O-Pyruvyl ketal modified N-acetylmannosamine of the secondary cell wall polysaccharide of Bacillus anthracis is the anchoring residue for its surface layer proteins. J. Am. Chem. Soc. 140(49): 17079–17085.
+
+21.	Prudden, A.R., L. Liu, C.J. Capicciotti, M.A. Wolfert, S. Wang, Z. Gao, L. Meng, K.W. Moremen, and G.J. Boons. 2017. Synthesis of asymmetrical multiantennary human milk oligosaccharides. Proc. Natl. Acad. Sci. U. S. A. 114(27): 6954-6959.
+
+
+
